@@ -28,7 +28,9 @@ Temperature-Converter_SIC/
   python temperature_converter.py
   ```
 
-📖 Cara Pakai
+---
+
+## 📖 Cara Pakai
 
 Saat dijalankan, program akan minta:
 
@@ -38,7 +40,9 @@ Saat dijalankan, program akan minta:
 3. Pilih satuan tujuan (C/F/K):
 ```
 
-📌 Contoh Output
+---
+
+## 📌 Contoh Output
 
 ```Output
 === KONVERSI SUHU ===
