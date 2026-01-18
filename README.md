@@ -51,3 +51,5 @@ Dari satuan (C/F/K): C
 Ke satuan (C/F/K): F
 Hasil: 100.0°C = 212.00°F
 ```
+
+Thank You for Used This Code:)
